@@ -1,0 +1,83 @@
+<?xml version='1.0'  encoding='Cp1252' ?>
+<DOR_NAME>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[001]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Îêòÿáðüñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[002]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Êàëèíèíãðàäñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[003]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Ìîñêîâñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[004]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Ãîðüêîâñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[005]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Ñåâåðíàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[006]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Ñåâåðî-Êàâêàçñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[007]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Þãî-Âîñòî÷íàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[008]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Ïðèâîëæñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[009]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Êóéáûøåâñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[010]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Ñâåðäëîâñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[011]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Þæíî-Óðàëüñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[012]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Çàïàäíî-Ñèáèðñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[013]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Êðàñíîÿðñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[014]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Âîñòî÷íî-Ñèáèðñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[015]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Çàáàéêàëüñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[016]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Äàëüíåâîñòî÷íàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[017]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Ñàõàëèíñêàÿ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[099]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Ñåòü]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[100]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Ðåôñåðâèñ]]></COLUMN>
+	</ROW>
+	<ROW>
+		<COLUMN NAME="DOR_ID"><![CDATA[200]]></COLUMN>
+		<COLUMN NAME="NAME"><![CDATA[Çàâîäû]]></COLUMN>
+	</ROW>
+</DOR_NAME>
